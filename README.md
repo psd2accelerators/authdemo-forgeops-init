@@ -1,4 +1,4 @@
-# forgeops-init
+# authdemo-forgeops-init
 
 Holds initial configuration for the ForgeRock platform components. 
 
